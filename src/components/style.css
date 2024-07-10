@@ -19,7 +19,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f8f9fa;
+  background-color: #a565be;
   color: #333;
   line-height: 1.6;
   min-height: 100vh;
@@ -39,14 +39,14 @@ body {
 
 footer {
   background-color: #000620;
-  color: #fff;
+  color: #ebd7e8;
   text-align: center;
   padding: 10px 0;
   margin-top: auto; /* This pushes the footer to the bottom */
 }
 
 main {
-  background-color: #fff;
+  background-color: #ef99ec;
   padding: 20px;
   margin-top: 20px;
   border-radius: 5px;
@@ -62,18 +62,18 @@ main {
 
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  color: #000000;
   margin-bottom: 20px;
   text-align: center;
 }
 
 p {
-  color: #666;
+  color: #eadfea;
   margin-bottom: 15px;
 }
 
 a {
-  color: #007bff;
+  color: #e3d7e2;
   text-decoration: none;
 }
 
@@ -84,7 +84,7 @@ a:hover {
 /* Buttons */
 .btn {
   display: inline-block;
-  background-color: #007bff;
+  background-color: #581bb5;
   color: #fff;
   padding: 10px 20px;
   border-radius: 4px;
@@ -116,7 +116,7 @@ textarea {
   width: calc(100% - 20px);
   padding: 10px;
   margin: 10px 0;
-  border: 1px solid #ccc;
+  border: 1px solid #661dd4;
   border-radius: 4px;
 }
 
