@@ -13,7 +13,7 @@ const Cart = () => {
       ) : (
         cart.map(item => (
           <div key={item.id} className="cart-item">
-            <img src={item.image} alt={item.name} className="cart-item-image" />
+            <img src={item.imageUrl} alt={item.name} className="cart-item-image" />
             <h2>{item.name}</h2>
             <button onClick={() => removeFromCart(item)}>Remove</button>
           </div>
