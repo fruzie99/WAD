@@ -5,12 +5,12 @@ import { CartContext } from '../context/CartContext'; // Adjust the path as per 
 import './Catalogue.css';
 
 const products = [
-  { id: 1, name: 'Product 1', imageUrl: 'https://www.rarebeauty.com/products/find-comfort-body-hair-fragrance-mist', description: 'Description 1', price: 10 },
-  { id: 2, name: 'Product 2', imageUrl: 'https://www.rarebeauty.com/products/find-comfort-hydrating-hand-cream', description: 'Description 2', price: 20 },
-  { id: 3, name: 'Product 3', imageUrl: 'https://www.rarebeauty.com/products/soft-pinch-luminous-powder-blush?variant=40970263232647', description: 'Description 3', price: 30 },
-  { id: 4, name: 'Product 4', imageUrl: 'https://www.rarebeauty.com/products/positive-light-liquid-luminizer-mini?variant=40970263429255', description: 'Description 4', price: 40 },
-  { id: 5, name: 'Product 5', imageUrl: 'https://www.rarebeauty.com/products/brow-harmony-flexible-lifting-gel', description: 'Description 5', price: 50 },
-  { id: 6, name: 'Product 6', imageUrl: 'https://www.rarebeauty.com/products/positive-light-silky-touch-highlighter?variant=40253134962823', description: 'Description 6', price: 60 },
+  { id: 1, name: 'Product 1', imageUrl: 'https://www.rarebeauty.com/cdn/shop/products/positive-light-silky-touch-highlighter-flaunt-1440x1952.jpg?v=1669937801', description: 'Description 1', price: 10 },
+  { id: 2, name: 'Product 2', imageUrl: 'https://cdn.shopify.com/s/files/1/0314/1143/7703/products/pdp-sku-Liquid-Blush-Dewy-Hope.jpg?v=1645133400', description: 'Description 2', price: 20 },
+  { id: 3, name: 'Product 3', imageUrl: 'https://cdn.shopify.com/s/files/1/0314/1143/7703/products/soft-pinch-tinted-lip-oil-serenity-1440x1952.jpg?v=1679094329', description: 'Description 3', price: 30 },
+  { id: 4, name: 'Product 4', imageUrl: 'https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Setting-Powder-Light-SKU.jpg?v=1639180706', description: 'Description 4', price: 40 },
+  { id: 5, name: 'Product 5', imageUrl: 'https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Bronzer-Stick-Power-Boost-SKU.jpg?v=1638297308',description: 'Description 4', price: 50 },
+  { id: 6, name: 'Product 6', imageUrl: 'https://cdn.shopify.com/s/files/1/0314/1143/7703/products/Full-Size-Mascara-Open-SKU.jpg?v=1629247163', description: 'Description 6', price: 60 },
   // Add more products as needed
 ];
 
